@@ -71,4 +71,4 @@ These filters allow users to drill down into specific segments and analyze data 
 This dashboard offers a 360-degree view of mobile sales performance, enabling data-driven decision-making through intuitive visuals and powerful filtering options. It is ideal for business analysts, sales managers, and decision-makers.
 
 🔸Screenshots / Demos
-      Example : [ Dashboard Preview] (
+      Example : [ Dashboard Preview] (https://github.com/borawakeprem/Mobile-Sales-Dashboard-Power-BI-Project-1-/blob/main/Mobile%20Sales%20Dashboard%20.png)
